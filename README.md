@@ -18,3 +18,6 @@ The project consists of a server-client architecture that mimics how devices on 
 ## Technical Specifications
 - Language - Python
 - Protcol - UDP (User Datagram Protocol)
+
+## Copyright
+Copyright (c) 2026 Meghna Ravikumar. All rights reserved. No part of this software may be reproduced or distributed without permission.
